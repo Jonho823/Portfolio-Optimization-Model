@@ -19,8 +19,8 @@ This dataset encompasses daily stock data from all constituents of the FTSE 100 
 ## Installation Instruction
 
 1. Clone the project repository from GitHub.
-2. Import the provided dataset file into **`portfolio_optimization.ipynb`**.
-3. Execute the code in**`portfolio_optimization.ipynb`** with the use of **`edhec_risk_kit.py`** as a toolkit for portfolio optimization**.**
+2. Import the provided dataset file into `portfolio_optimization.ipynb`.
+3. Execute the code in `portfolio_optimization.ipynb` with the use of `edhec_risk_kit.py` as a toolkit for portfolio optimization.
 
 ## Coding Contributions
 
